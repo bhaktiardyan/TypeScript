@@ -21,6 +21,11 @@ sedan.Mundur()
 sedan.Terbang()
 sedan._setValue("A")
 sedan._setValue(10)
+// call interface
+sedan.StartOn()
+sedan.StartOn()
+sedan.OpenWindow()
+sedan.CloseWindow()
 
 let boeing = new pesawat("boeing", 150, "udara")
 boeing._Propertis()
@@ -29,6 +34,7 @@ boeing.Mundur()
 boeing.Terbang()
 boeing._setValue("A")
 boeing._setValue(10)
+
 
 
 
